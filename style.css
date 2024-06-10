@@ -183,7 +183,7 @@ button {
 
 .sec4-box {
     display: flex;
-    width: 60vh;
+    width: 110vh;
     height: auto;
     background-color: #3882F6;
     border-radius: 25px;
@@ -192,17 +192,33 @@ button {
 
 .sec4-title {
     color: #F9FAF8;
+    font-weight: 800;
 }
 
 .sec4-text {
-    color: #F9FAF8;
+    color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    height: 75px;
+    justify-content: center;
+    margin-left: 25px;
 }
 
 .sec4-button {
+    display: flex;
     border-radius: 8px;
     border: none;
-    padding: 10px 32px;
-    text-align: center;
+    box-shadow: 0 0 0 2pt #F9FAF8;
     text-decoration: none;
-    display: inline-block;
+    width: 125px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: 25px;
+}
+
+.sec4-button-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-grow: 1;
 }

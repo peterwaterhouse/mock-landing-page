@@ -3,6 +3,10 @@ This is a basic website landing page.
 
 I completed this HTML/CSS page as a part of The Odin Project to pratice certain skills like Flexbox, CSS, HTML, and Git (hello!).
 
+View the website here: https://peterwaterhouse.github.io/mock-landing-page/
+
+Note: This website is designed for desktop web browsing only (not mobile).
+
 Photo attributions below.
 
 Photo by <a href="https://unsplash.com/@lukesouthern?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Luke Southern</a> on <a href="https://unsplash.com/photos/person-writing-on-white-paper-ftQrm7D1Rw0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>

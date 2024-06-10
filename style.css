@@ -222,3 +222,19 @@ button {
     justify-content: center;
     flex-grow: 1;
 }
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    background-color: #1F2937;
+    height: 80px;
+    justify-content: center;
+}
+
+.footer-text {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #E5E7EB;
+    font-size: 12px;
+}
